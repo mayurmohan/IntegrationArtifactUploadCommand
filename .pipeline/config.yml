@@ -7,7 +7,7 @@ steps:
     cpiCredentialsId: roverpocOauthCred
     integrationFlowId: flow4
     integrationFlowVersion: 1.0.4
-    integrationName: flow4
+    integrationFlowName: flow4
     packageId: CICD
     filePath: flow4.zip
     host: https://roverpoc.it-accd002.cfapps.sap.hana.ondemand.com
