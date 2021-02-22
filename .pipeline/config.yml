@@ -9,6 +9,6 @@ steps:
     integrationFlowVersion: 1.0.4
     integrationName: flow4
     packageID: CICD
-    FilePath: flow4.zip
+    filePath: flow4.zip
     host: https://roverpoc.it-accd002.cfapps.sap.hana.ondemand.com
     oAuthTokenProviderUrl: https://roverpoc.authentication.sap.hana.ondemand.com/oauth/token
