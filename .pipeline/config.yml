@@ -1,14 +1,7 @@
-general:
-  iflowName: flow1
-  iflowVersion: 1.0.1
-
 steps:
   integrationArtifactUpload:
-    cpiCredentialsId: roverpocOauthCred
+    cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
     integrationFlowId: flow4
-    integrationFlowVersion: 1.0.4
     integrationFlowName: flow4
     packageId: CICD
     filePath: flow4.zip
-    host: https://roverpoc.it-accd002.cfapps.sap.hana.ondemand.com
-    oAuthTokenProviderUrl: https://roverpoc.authentication.sap.hana.ondemand.com/oauth/token
