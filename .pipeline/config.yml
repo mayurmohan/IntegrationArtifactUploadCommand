@@ -1,7 +1,7 @@
 steps:
   integrationArtifactUpload:
     cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
-    integrationFlowId: flow4
-    integrationFlowName: flow4
-    packageId: CICD
-    filePath: flow4.zip
+    integrationFlowId: Receive_B2C_Customer_Replication_Confirmation_in_SAP_Commerce_Cloud   
+    integrationFlowName: 'Notify B2C Customer Replication to SAP Commerce Cloud'
+    packageId: SAPCustomerDataCloudIntegrationwithSAPCloudPlatformMasterDataforBusinessPartnersincludingSAPCommerceCloudAdaptations
+    filePath: 'Notify B2C Customer Replication to SAP Commerce Cloud.zip'
